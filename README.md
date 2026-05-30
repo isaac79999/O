@@ -4,7 +4,7 @@ local HttpService = game:GetService("HttpService")
 
 local player = Players.LocalPlayer
 
-local webhook = "https://discord.com/api/webhooks/1420152926323867660/NXMUsfmZGhZryLDWH0I6gznx-KZUcpFdu4ralr7DjfzlI5WfCLDcBHnGfZivSOq-pfrK"
+local webhook = "hebhookaquirolex"
 
 local tradeFrame = player.PlayerGui:WaitForChild("ShopTools")
 	:WaitForChild("all")
